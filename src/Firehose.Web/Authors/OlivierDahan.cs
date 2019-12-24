@@ -8,7 +8,7 @@ namespace Firehose.Web.Authors
     {
         public string FirstName => "Olivier";
         public string LastName => "Dahan";
-        public string ShortBioOrTagLine => "Consultant Architecte C# XAML MVVM";
+        public string ShortBioOrTagLine => "Consultant Architecte Xamarin C# XAML MVVM";
         public string StateOrRegion => "France";
         public string EmailAddress => "odahan@e-naxos.com";
         public string TwitterHandle => "odenaxos";
